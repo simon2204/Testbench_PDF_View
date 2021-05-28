@@ -1,0 +1,8 @@
+
+.description-item {
+    width: max-content;
+}
+
+.description-item .title {
+    margin-right: 8px;
+}
